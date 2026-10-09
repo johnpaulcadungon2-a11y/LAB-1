@@ -34,13 +34,13 @@ CloudNova Technologies asked me to build a proof-of-concept private cloud storag
 ## Evidence
 
 **Deployment and running containers**
-![compose-deployment](screenshots/compose-deployment.png)
+![compose-deployment](screenshot/compose-deployment.png)
 
 **Nextcloud setup page (port 8080)**
-![nextcloud-web](screenshots/nextcloud-web.png)
+![nextcloud-web](screenshot/nextcloud-web.png)
 
 **Teardown**
-![compose-teardown](screenshots/compose-teardown.png)
+![compose-teardown](screenshot/compose-teardown.png)
 
 ## Skills Learned
 
